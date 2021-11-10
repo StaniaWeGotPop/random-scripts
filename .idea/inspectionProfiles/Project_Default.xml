@@ -1,0 +1,111 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="98">
+            <item index="0" class="java.lang.String" itemvalue="botocore" />
+            <item index="1" class="java.lang.String" itemvalue="stevedore" />
+            <item index="2" class="java.lang.String" itemvalue="phonenumbers" />
+            <item index="3" class="java.lang.String" itemvalue="awscli" />
+            <item index="4" class="java.lang.String" itemvalue="mako" />
+            <item index="5" class="java.lang.String" itemvalue="moto" />
+            <item index="6" class="java.lang.String" itemvalue="boto3" />
+            <item index="7" class="java.lang.String" itemvalue="regex" />
+            <item index="8" class="java.lang.String" itemvalue="watchdog" />
+            <item index="9" class="java.lang.String" itemvalue="faker" />
+            <item index="10" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="11" class="java.lang.String" itemvalue="webtest" />
+            <item index="12" class="java.lang.String" itemvalue="hypothesis" />
+            <item index="13" class="java.lang.String" itemvalue="types-enum34" />
+            <item index="14" class="java.lang.String" itemvalue="types-ipaddress" />
+            <item index="15" class="java.lang.String" itemvalue="cli-helpers" />
+            <item index="16" class="java.lang.String" itemvalue="colorlog" />
+            <item index="17" class="java.lang.String" itemvalue="cliff" />
+            <item index="18" class="java.lang.String" itemvalue="pip-licenses" />
+            <item index="19" class="java.lang.String" itemvalue="black" />
+            <item index="20" class="java.lang.String" itemvalue="cryptography" />
+            <item index="21" class="java.lang.String" itemvalue="ipython" />
+            <item index="22" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="23" class="java.lang.String" itemvalue="types-redis" />
+            <item index="24" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="25" class="java.lang.String" itemvalue="prettytable" />
+            <item index="26" class="java.lang.String" itemvalue="autopage" />
+            <item index="27" class="java.lang.String" itemvalue="flake8-quotes" />
+            <item index="28" class="java.lang.String" itemvalue="pgcli" />
+            <item index="29" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="30" class="java.lang.String" itemvalue="bleach" />
+            <item index="31" class="java.lang.String" itemvalue="traitlets" />
+            <item index="32" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="33" class="java.lang.String" itemvalue="alembic" />
+            <item index="34" class="java.lang.String" itemvalue="pytest" />
+            <item index="35" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="36" class="java.lang.String" itemvalue="pluggy" />
+            <item index="37" class="java.lang.String" itemvalue="pillow" />
+            <item index="38" class="java.lang.String" itemvalue="types-bleach" />
+            <item index="39" class="java.lang.String" itemvalue="types-certifi" />
+            <item index="40" class="java.lang.String" itemvalue="types-python-dateutil" />
+            <item index="41" class="java.lang.String" itemvalue="zope.sqlalchemy" />
+            <item index="42" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="43" class="java.lang.String" itemvalue="matplotlib-inline" />
+            <item index="44" class="java.lang.String" itemvalue="responses" />
+            <item index="45" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="46" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="47" class="java.lang.String" itemvalue="cmd2" />
+            <item index="48" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="49" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="50" class="java.lang.String" itemvalue="types-toml" />
+            <item index="51" class="java.lang.String" itemvalue="gitpython" />
+            <item index="52" class="java.lang.String" itemvalue="iso3166" />
+            <item index="53" class="java.lang.String" itemvalue="pip-tools" />
+            <item index="54" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="55" class="java.lang.String" itemvalue="urllib3" />
+            <item index="56" class="java.lang.String" itemvalue="types-requests" />
+            <item index="57" class="java.lang.String" itemvalue="types-markdown" />
+            <item index="58" class="java.lang.String" itemvalue="python-stdnum" />
+            <item index="59" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="60" class="java.lang.String" itemvalue="zipp" />
+            <item index="61" class="java.lang.String" itemvalue="schwifty" />
+            <item index="62" class="java.lang.String" itemvalue="cachetools" />
+            <item index="63" class="java.lang.String" itemvalue="furl" />
+            <item index="64" class="java.lang.String" itemvalue="pytz" />
+            <item index="65" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="66" class="java.lang.String" itemvalue="pyopenssl" />
+            <item index="67" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="68" class="java.lang.String" itemvalue="pusher" />
+            <item index="69" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="70" class="java.lang.String" itemvalue="pyflakes" />
+            <item index="71" class="java.lang.String" itemvalue="certifi" />
+            <item index="72" class="java.lang.String" itemvalue="icalendar" />
+            <item index="73" class="java.lang.String" itemvalue="formencode" />
+            <item index="74" class="java.lang.String" itemvalue="wrapt" />
+            <item index="75" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="76" class="java.lang.String" itemvalue="uwsgi" />
+            <item index="77" class="java.lang.String" itemvalue="flake8" />
+            <item index="78" class="java.lang.String" itemvalue="types-decorator" />
+            <item index="79" class="java.lang.String" itemvalue="pep517" />
+            <item index="80" class="java.lang.String" itemvalue="smmap" />
+            <item index="81" class="java.lang.String" itemvalue="sqlalchemy-utils" />
+            <item index="82" class="java.lang.String" itemvalue="types-pytz" />
+            <item index="83" class="java.lang.String" itemvalue="cffi" />
+            <item index="84" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="85" class="java.lang.String" itemvalue="reportlab" />
+            <item index="86" class="java.lang.String" itemvalue="types-markupsafe" />
+            <item index="87" class="java.lang.String" itemvalue="gitdb" />
+            <item index="88" class="java.lang.String" itemvalue="jinja2" />
+            <item index="89" class="java.lang.String" itemvalue="types-croniter" />
+            <item index="90" class="java.lang.String" itemvalue="types-cryptography" />
+            <item index="91" class="java.lang.String" itemvalue="types-jinja2" />
+            <item index="92" class="java.lang.String" itemvalue="stripe" />
+            <item index="93" class="java.lang.String" itemvalue="types-freezegun" />
+            <item index="94" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="95" class="java.lang.String" itemvalue="idna" />
+            <item index="96" class="java.lang.String" itemvalue="tomli" />
+            <item index="97" class="java.lang.String" itemvalue="packaging" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
